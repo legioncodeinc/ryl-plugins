@@ -1,0 +1,9 @@
+{
+  "name": "ryl-hello",
+  "version": "0.1.0",
+  "description": "Minimal ryl plugin example: one skill and one slash command. Proves the our-plugins pipeline end to end.",
+  "author": { "name": "Legion Code Inc." },
+  "license": "MIT",
+  "skills": "skills",
+  "commands": "commands"
+}

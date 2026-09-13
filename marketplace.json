@@ -1,0 +1,16 @@
+{
+  "name": "ryl-plugins",
+  "description": "Ryl internal plugins marketplace: plugins authored by Legion Code Inc. for the ryl desktop clone.",
+  "owner": {
+    "name": "Legion Code Inc.",
+    "url": "https://github.com/legioncodeinc"
+  },
+  "plugins": [
+    {
+      "name": "ryl-hello",
+      "source": "./plugins/ryl-hello",
+      "description": "Minimal ryl plugin example: one skill and one slash command. Proves the marketplace pipeline end to end.",
+      "strict": false
+    }
+  ]
+}
